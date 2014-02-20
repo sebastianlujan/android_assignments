@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DangerousApp</string>
+    <string name="hello_world">You have opened a dangerous activity</string>
+    <string name="permission_name"> "DANGEROUS_ACTIVITY_PERM"</string>
+    <string name="permission_description"> "DANGEROUS_ACTIVITY_PERM, this permission dont have any utility, but its important to understand, custom permissions, vieja."</string>
+
+</resources>
